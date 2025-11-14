@@ -26,9 +26,9 @@
            "bg": "#D32F2F",
            "color": "#FFFFFF",
            "border": "#D32F2F",
-           "radius": "0px",
-           "fontSize": "20px",
-           "padding": "18px 32px"
+           "radius": "50px",
+           "fontSize": "53px",
+           "padding": "50px 35px"
             },
             {
               "type": "image_src_by_alt",
