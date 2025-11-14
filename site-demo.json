@@ -58,6 +58,12 @@
             },
             {
               "type": "css_by_selector",
+              "selector": "button:contains('Book a meeting')",
+              "property": "padding",
+              "value": "20px 38px"
+            },
+            {
+              "type": "css_by_selector",
               "selector": ".product-card",
               "property": "box-shadow",
               "value": "0 8px 20px rgba(0,0,0,0.12)"
