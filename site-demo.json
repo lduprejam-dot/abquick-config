@@ -1,5 +1,5 @@
 {
-  "site_id": "demo",
+  "site_id": "demo", 
   "experiments": [
     {
       "id": "exp_demo_hero",
