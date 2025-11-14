@@ -10,7 +10,7 @@
         { "id": "B", "weight": 0.5, "actions": [
           { "type": "text", "selector": "h1", "value": "Make your product pages convert faster" },
           { "type": "css",  "selector": "button, a[role='button']", "property": "background-color", "value": "#D32F2F" }
-        ]}
+        ]} 
       ],
       "track": { "selector": "button, a[role='button']" }
     }
