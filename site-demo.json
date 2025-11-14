@@ -17,25 +17,50 @@
             {
               "type": "text_by_text",
               "from": "Test",
-              "to": "coucou"
-            },
-            {
-              "type": "button_color_by_text",
-              "text": "Discover all projects",
-              "label": "got u baby",
-              "bg": "#D32F2F",
-              "color": "#FFFFFF",
-              "border": "#D32F2F",
-              "radius": "100px"
+              "to": "VARIANTE B : Make your product pages convert faster"
             },
             {
               "type": "button_color_by_text",
               "text": "Book a meeting",
-              "label": "oh my god",
+              "label": "Start your free test",
               "bg": "#D32F2F",
               "color": "#FFFFFF",
               "border": "#D32F2F",
               "radius": "0px"
+            },
+            {
+              "type": "image_src_by_alt",
+              "alt": "Dashboard preview",
+              "src": "https://ton-nouveau-visuel.com/hero-variant-b.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exp_product_cards",
+      "traffic": 1,
+      "variants": [
+        {
+          "id": "A",
+          "weight": 0.5,
+          "actions": []
+        },
+        {
+          "id": "B",
+          "weight": 0.5,
+          "actions": [
+            {
+              "type": "css_by_selector",
+              "selector": ".product-card",
+              "property": "border-radius",
+              "value": "16px"
+            },
+            {
+              "type": "css_by_selector",
+              "selector": ".product-card",
+              "property": "box-shadow",
+              "value": "0 8px 20px rgba(0,0,0,0.12)"
             }
           ]
         }
