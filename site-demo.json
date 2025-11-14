@@ -22,11 +22,11 @@
             {
               "type": "button_color_by_text",
               "text": "Book a meeting",
-              "label": "Bye Bye",
+              "label": "Start your free test",
               "bg": "#D32F2F",
-              "color": "#45FF4C",
-              "border": "#4577FF",
-              "radius": "15px"
+              "color": "#FFFFFF",
+              "border": "#D32F2F",
+              "radius": "0px"
             }
           ]
         }
