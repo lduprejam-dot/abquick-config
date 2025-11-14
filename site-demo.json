@@ -1,0 +1,18 @@
+{
+  "site_id": "demo",
+  "experiments": [
+    {
+      "id": "exp_demo_hero",
+      "target": { "pathname_matches": "^/$" },
+      "traffic": 1,
+      "variants": [
+        { "id": "A", "weight": 0.5, "actions": [] },
+        { "id": "B", "weight": 0.5, "actions": [
+          { "type": "text", "selector": "h1", "value": "Make your product pages convert faster" },
+          { "type": "css",  "selector": "button, a[role='button']", "property": "background-color", "value": "#D32F2F" }
+        ]}
+      ],
+      "track": { "selector": "button, a[role='button']" }
+    }
+  ]
+}
