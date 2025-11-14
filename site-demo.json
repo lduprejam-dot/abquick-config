@@ -27,6 +27,15 @@
               "color": "#FFFFFF",
               "border": "#D32F2F",
               "radius": "100px"
+            },
+            {
+              "type": "button_color_by_text",
+              "text": "Book a meeting",
+              "label": "oh my god",
+              "bg": "#D32F2F",
+              "color": "#FFFFFF",
+              "border": "#D32F2F",
+              "radius": "0px"
             }
           ]
         }
