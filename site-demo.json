@@ -1,4 +1,4 @@
-{
+by{
   "site_id": "demo",
   "experiments": [
     {
@@ -22,11 +22,11 @@
             {
               "type": "button_color_by_text",
               "text": "Book a meeting",
-              "label": "Start your free test",
+              "label": "Bye Bye",
               "bg": "#D32F2F",
-              "color": "#FFFFFF",
-              "border": "#D32F2F",
-              "radius": "0px"
+              "color": "#45FF4C",
+              "border": "#4577FF",
+              "radius": "15px"
             }
           ]
         }
