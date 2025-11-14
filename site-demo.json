@@ -26,14 +26,14 @@
               "bg": "#D32F2F",
               "color": "#FFFFFF",
               "border": "#D32F2F",
-              "radius": "8px",
-              "fontSize": "20px",
+              "radius": "50px",
+              "fontSize": "15px",
               "fontWeight": "600",
               "letterSpacing": "0.4px",
               "padding": "18px 32px",
               "width": "260px",
               "height": "64px",
-              "transform": "scale(1.05)"
+              "transform": "scale(0.9)"
             },
             {
               "type": "image_src_by_alt",
