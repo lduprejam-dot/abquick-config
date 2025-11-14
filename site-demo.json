@@ -20,15 +20,20 @@
               "to": "VARIANTE B : Make your product pages convert faster"
             },
             {
-           "type": "button_color_by_text",
-           "text": "Book a meeting",
-           "label": "Start your free test",
-           "bg": "#D32F2F",
-           "color": "#FFFFFF",
-           "border": "#D32F2F",
-           "radius": "50px",
-           "fontSize": "53px",
-           "padding": "50px 35px"
+              "type": "button_color_by_text",
+              "text": "Book a meeting",
+              "label": "Start your free test",
+              "bg": "#D32F2F",
+              "color": "#FFFFFF",
+              "border": "#D32F2F",
+              "radius": "8px",
+              "fontSize": "20px",
+              "fontWeight": "600",
+              "letterSpacing": "0.4px",
+              "padding": "18px 32px",
+              "width": "260px",
+              "height": "64px",
+              "transform": "scale(1.05)"
             },
             {
               "type": "image_src_by_alt",
@@ -63,6 +68,12 @@
               "selector": ".product-card",
               "property": "box-shadow",
               "value": "0 8px 20px rgba(0,0,0,0.12)"
+            },
+            {
+              "type": "css_by_selector",
+              "selector": ".product-card",
+              "property": "padding",
+              "value": "20px"
             }
           ]
         }
